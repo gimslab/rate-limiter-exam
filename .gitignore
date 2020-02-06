@@ -7,3 +7,5 @@ build
 # Project exclude paths
 /out/
 /out/production/classes/
+
+.idea
